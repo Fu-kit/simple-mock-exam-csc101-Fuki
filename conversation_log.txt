@@ -1,1 +1,7 @@
+SECTION X - KEY INTERACTION:
+My prompt: [Your important prompts]
+AI response: [Brief summary of AI response]
+Course constraint applied: [How you modified AI suggestions]
+---
+
 
